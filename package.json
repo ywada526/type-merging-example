@@ -1,0 +1,10 @@
+{
+  "private": true,
+  "name": "type-merging-example",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ywada526/type-merging-example.git"
+  },
+  "author": "Yuta Wada",
+  "license": "MIT"
+}
